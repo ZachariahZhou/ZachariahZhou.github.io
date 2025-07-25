@@ -16,6 +16,10 @@ I am very fortunate to be advised by [Prof. Yiyan Li](https://www.senergy.sjtu.e
 I was advised by [Prof. Zhixing He](https://eeit.hnu.edu.cn/info/1568/8182.htm) from [College of Electrical and Information Engineering](https://eeit.hnu.edu.cn/), Hunan University.
 
 You can find my CV here: [Zhenghao Zhou's Curriculum Vitae](../assets/CV-zzh-250721.pdf).
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
 
 [Email](mailto:Zhenghao.Zhou@sjtu.edu.cn)  / 
 [Github](https://github.com/ZachariahZhou) / 

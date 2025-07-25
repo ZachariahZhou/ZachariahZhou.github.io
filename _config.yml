@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhenghao Zhou / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhenghao Zhou"
+name                     : &name "Zhenghao Zhou (周正昊)"
 description              : &description "a first year master student from Shanghai Jiao Tong University"
 url                      : https://zachariahzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "zachariahzhou/zachariahzhou.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Zhenghao Zhou"
+  name             : "Zhenghao Zhou (周正昊)"
   pronouns         : # example: "she/her"  
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
